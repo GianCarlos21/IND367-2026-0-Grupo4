@@ -1,0 +1,8 @@
+{
+  "name": "FollowConstruction",
+  "description": "Aplicación móvil de supervisión de obra para el seguimiento de tareas, registro de evidencias y visualización de KPIs.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
